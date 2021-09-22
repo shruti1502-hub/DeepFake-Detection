@@ -8,4 +8,4 @@ Some of these examples include:
 
 ![download (1)](https://user-images.githubusercontent.com/67157901/134293383-c2437475-bc1f-4a8a-b9e4-f51917f8bcfb.jpeg)
 
-To help developing methods to detect such fake images we have created a website in which a user can upload any photo and detect the probability of it being real or fake.
+To help developing methods to detect such fake images we have created a streamlit web app in which an user can upload any photo and detect the probability of it being real or fake.
