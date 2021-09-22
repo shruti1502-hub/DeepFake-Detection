@@ -10,5 +10,16 @@ Some of these examples include:
 
 To help developing methods to detect such fake images we have created a streamlit web app in which an user can upload any photo and detect the probability of it being real or fake.
 
-# Our Website
-Presently, our model is trained for human face classification only. To run the 
+## How To Run Our Website
+- Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
+- Download This Project Zip Folder and Extract it
+- Move to project folder in Terminal. Then run following Commands :
+```
+python main.py
+streamlit run main.py
+
+```
+- Now enter following URL in Your Browser Installed On Your Pc
+```
+http://localhost:8501
+```
